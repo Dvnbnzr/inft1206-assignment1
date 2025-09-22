@@ -5,7 +5,7 @@ Web Development Fundamentals – INFT1206**
 
 👨‍🎓 Student Info
 - Name: Divine
-- Student ID**: 100929682
+- Student ID: 100929682
 - Date: 21 September 2025
 
 ## 📄 Assignment Description
