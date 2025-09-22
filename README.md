@@ -1,7 +1,7 @@
 # INFT1206 – Assignment 1: HTML Overview
 
 ## 📘 Course
-Web Development Fundamentals – INFT1206**
+Web Development Fundamentals – INFT1206
 
 👨‍🎓 Student Info
 - Name: Divine
