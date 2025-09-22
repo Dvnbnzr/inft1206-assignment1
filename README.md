@@ -24,6 +24,11 @@ Each file includes:
 - `Letter.html` – Semantic markup of a sample letter
 - `page.html` – Structured webpage using semantic tags
 
+- ## 🔗 Live Links
+- [Letter.html](https://github.com/Dnvbnr/inft206-assignment1/blob/main/Letter.html)
+- [page.html](https://github.com/Dnvbnr/inft206-assignment1/blob/main/page.html)
+
+
 ## ✅ Validation
 All HTML files have been validated using the [W3C HTML5 Validator](https://validator.w3.org/) and meet the required standards.
 
